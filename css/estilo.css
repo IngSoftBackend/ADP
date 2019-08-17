@@ -1,5 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    border: 0;
+.bg-blue-dark {
+    background: #006080;
+    color: #fff;
 }
